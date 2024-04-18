@@ -4,4 +4,4 @@ A small resouce pack, replaces the default crafting table model with a more deta
 Minecraft Version : 1.12.2
 
 --== Credits ==---
-Blockbench - Programe I used to make the model
+Blockbench - Program I used to make the model
